@@ -1,0 +1,195 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The libeller characteriz'd by his own hand In ansvver to a scurrilous pamphlet, intitluled, The character of a Quaker, &amp;c.</title>
+            <author>Rudyard, Thomas, d. 1692.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1671</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57823</idno>
+            <idno type="STC">Wing R2182</idno>
+            <idno type="STC">ESTC R218482</idno>
+            <idno type="EEBO-CITATION">99830069</idno>
+            <idno type="PROQUEST">99830069</idno>
+            <idno type="VID">34518</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57823)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34518)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2017:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The libeller characteriz'd by his own hand In ansvver to a scurrilous pamphlet, intitluled, The character of a Quaker, &amp;c.</title>
+                  <author>Rudyard, Thomas, d. 1692.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, 1671.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed by Wing to Thomas Rudyard.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Caption title on pg. 3: The libeller characteriz'd by his own hand, &amp;c.</note>
+                  <note>Reproduction of the original at the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>R. H. --  Character of a Quaker in his true and proper colours --  Early works to 1800.</term>
+               <term>Quakers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34518:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 31 -->
+            <p>THE LIBELLER Characteriz'd By his own Hand.</p>
+            <p>IN ANSWER TO A Scurrilous Pamphlet, Intituled, The Character of a Quaker, &amp;c.</p>
+            <q>
+               <l>Nulla fides, Pietaſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> viris, qui Caſtra ſequuntur</l>
+               <l>Venaleſque manus: ibi fas, ubi maxima merces.</l>
+            </q>
+            <p>Printed in the Year, 1671.</p>
+            <pb facs="tcp:34518:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 32 -->
+            <pb facs="tcp:34518:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 32 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:34518:3"/>
+            <!-- PDF PAGE 33 -->
+            <pb n="3" facs="tcp:34518:3" rendition="simple:additions"/>
+            <!-- PDF PAGE 33 -->
+            <head>THE LIBELLER Characteriz'd By his own Hand, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">H</seg>E Is an entire lover of his <hi>Party,</hi> for whoſe ſake he Stigmatizes all but his own <hi>Caſt,</hi> prefers Gentile <hi>Hectors</hi> Damming <hi>Oathes</hi> before the Plain Chriſtian <hi>Yea</hi> and <hi>Nay</hi> of his Neigh<g ref="char:EOLhyphen"/>bour.</p>
+            <p>To the <hi>firſt,</hi> he dedicates his <hi>Paines:</hi> To the <hi>ſecond,</hi> his <hi>Hatred.</hi> His <hi>Malice</hi> is ſo bent againſt all <hi>Sobriety,</hi> that he fears its leaſt appear<g ref="char:EOLhyphen"/>ance more than <hi>Hell;</hi> and to <hi>Reform</hi> is ſuch a <hi>Task,</hi> that he hates the very Word. So diſmal is a <hi>Modeſt Dreſs</hi> to his <hi>Luxurious Eye,</hi> that he
+<pb n="4" facs="tcp:34518:4"/>
+               <!-- PDF PAGE 34 -->takes it for a <hi>Monſter</hi> in Nature; and incon<g ref="char:EOLhyphen"/>ſiſtent, with what he calls <hi>Religion,</hi> to be <hi>Virtu<g ref="char:EOLhyphen"/>ous.</hi>
+            </p>
+            <p>He knows not whence that <hi>Devotion</hi> ſhould have its Riſe, that teaches how to deny ſelf, ſince <hi>his</hi> hath ever been to anſwer the debauch<g ref="char:EOLhyphen"/>ed Ends of a <hi>ſeared Conſcience;</hi> and to thwart his Intereſt, tearms it, <hi>A Compoſition of Contra<g ref="char:EOLhyphen"/>diction.</hi>
+            </p>
+            <p>He knows of no <hi>Honour</hi> but what is re<g ref="char:EOLhyphen"/>quired by a proud <hi>Hamond,</hi> or a curſed <hi>Herod;</hi> the firſt thirſted for the <hi>Knee,</hi> the ſecond for <hi>Tytles of Honour,</hi> yet neither failed of their <hi>due Reward.</hi>
+            </p>
+            <p>But have they ever made themſelves ſuch <hi>tall Hornes</hi> by their own ſtrength, or procured ſo many <hi>triumphant Trophies</hi> by their own Arm, that any now ſhould boaſt or turn <hi>Incendi<g ref="char:EOLhyphen"/>aries?</hi>
+            </p>
+            <p>To preach <hi>Chriſt</hi> the <hi>Light,</hi> is to his under<g ref="char:EOLhyphen"/>ſtanding <hi>inſignificant babble.</hi> Not to <hi>Swear</hi> with him, is to <hi>Lye;</hi> becauſe he believes <hi>Oathes</hi> a great
+<pb n="5" facs="tcp:34518:4"/>
+               <!-- PDF PAGE 34 -->ingredient to make a <hi>Gentleman;</hi> and <hi>Plain-deal<g ref="char:EOLhyphen"/>ing</hi> at a word, is ſo much an <hi>Enemy to him,</hi> that he calls it <hi>a meer Cheat.</hi>
+            </p>
+            <p>
+               <hi>Jeſuite</hi> and <hi>Pope</hi> being amongſt ſome, words of <hi>Reproach,</hi> he'll <hi>Stigmatize</hi> with them, but will have the <hi>Churches Compaſs</hi> as abſolute as the <hi>Popes Infallability.</hi> In general, where he hath no<g ref="char:EOLhyphen"/>thing againſt <hi>Religious Principles,</hi> he'll <hi>bely</hi> them, affirming abſolute <hi>ſalcities.</hi>
+            </p>
+            <p>He's ſo much a <hi>Temporizer,</hi> that he counts the demand of <hi>Civil Liberty,</hi> or a <hi>Tryal</hi> by the <hi>Law,</hi> abſolute <hi>Contention;</hi> and ſpeaking true <hi>Engliſh</hi> to a <hi>ſingle perſon,</hi> an affront of <hi>Juſtice.</hi> So much an admirer of the <hi>Decrees,</hi> or <hi>ſic volo's</hi> of every private <hi>Cabal,</hi> that its <hi>Treaſon</hi> to enquire into the <hi>Reaſon</hi> of their illegal <hi>Reſults.</hi> He takes a mea<g ref="char:EOLhyphen"/>ſure of others <hi>Chaſtity</hi> by his own <hi>Courtſhip,</hi> ob<g ref="char:EOLhyphen"/>ſcenly prating like one of thoſe, who, to be in the faſhon, keep <hi>Concubines</hi> at home, ſo charging others with <hi>guilt,</hi> would palliate their own.</p>
+            <p>He envyes the <hi>Worſhip</hi> of <hi>God,</hi> therefore
+<pb n="6" facs="tcp:34518:5"/>
+               <!-- PDF PAGE 35 -->
+               <hi>Devonſhire-Houſe</hi> ſticks in his <hi>Stomack,</hi> and to be <hi>knockt down</hi> in the Streets, and <hi>hal'd</hi> to <hi>Goal,</hi> he tearms <hi>keeping from breaking the Law.</hi> He counts no <hi>Lawful Wedlock,</hi> but where the <hi>Prieſt</hi> has a <hi>Fee;</hi> although from <hi>Geneſis</hi> to the <hi>Revelations</hi> he hath neither ſuch <hi>Precept</hi> nor <hi>Example;</hi> and glories in the <hi>Extravagancy</hi> of a <hi>diſtracted Whim<g ref="char:EOLhyphen"/>ſyſt,</hi> or <hi>exalted Diotrephes,</hi> whoſe <hi>Actions</hi> were owned of <hi>none,</hi> publickly <hi>condemned</hi> of <hi>many.</hi>
+            </p>
+            <p>
+               <hi>Baby-Sprinkling</hi> is one of his chiefeſt <hi>Infal<g ref="char:EOLhyphen"/>libles,</hi> by which he markes out a <hi>Chriſtian,</hi> al<g ref="char:EOLhyphen"/>though he be as Debauched and Luxurious as the <hi>Gomorrhean;</hi> and where his <hi>Party</hi> wants ſtrength of <hi>Argument,</hi> the <hi>Libeller</hi> aſſiſts with <hi>Dirt;</hi> concluding <hi>peaceable People</hi> a <hi>formidable Party,</hi> and dangerous to the <hi>State,</hi> with which he would incenſe the <hi>Magiſtrate</hi> to ſevere <hi>Uſages,</hi> fecthing his <hi>Pollicy</hi> from the <hi>Spaniſh Inquiſitors,</hi> who Cloath the <hi>Innocent Proteſtants</hi> with <hi>diſmal Helliſh dreſſes,</hi> before they deliver them unto the <hi>Civil Power,</hi> in order to receive the <hi>Fire</hi> and <hi>Faggot.</hi>
+            </p>
+            <pb n="7" facs="tcp:34518:5"/>
+            <!-- PDF PAGE 35 -->
+            <p>He ſcoffs at a <hi>Reſurrection</hi> from <hi>ſin,</hi> like an ir<g ref="char:EOLhyphen"/>religious Miſcreant and <hi>ſin-lover,</hi> who neither ownes the true <hi>God,</hi> not the <hi>Souls Immortality.</hi> He hates <hi>Religious Meetings,</hi> counting them a <hi>Breach of Law.</hi> Whoriſh <hi>Nurſeries</hi> ſuiting more the debauched mindes of ſuch <hi>Athieſts,</hi> whoſe incenſed madneſs is kindled againſt all oppoſers of their <hi>Debaucheries.</hi> His <hi>work</hi> bewrayes his Whoriſh <hi>effeminacy</hi> (by which he falſly mea<g ref="char:EOLhyphen"/>ſures others) whilſt he hints his <hi>skill</hi> in tokens of <hi>Letchery.</hi>
+            </p>
+            <p>He hates the <hi>Proſperity</hi> of an induſtrious Peo<g ref="char:EOLhyphen"/>ple, while ſuch as himſelf are <hi>devouring</hi> and <hi>waſt<g ref="char:EOLhyphen"/>ing</hi> upon their <hi>Luſts.</hi>
+            </p>
+            <p>The Unity of Affection amongſt <hi>Quakers</hi> offends ſuch bloody minded <hi>Diſcrepants,</hi> who inſtigate to a National <hi>Diviſion</hi> and <hi>Ruine,</hi> while they ayme at the <hi>violation</hi> and <hi>ſpoil</hi> of the Peo<g ref="char:EOLhyphen"/>ples juſt <hi>Intereſts.</hi> He abuſes the <hi>Quakers</hi> for their Charitable <hi>Collections,</hi> while he, and ſuch Conformable <hi>Sons</hi> of the <hi>Church,</hi> can without <hi>any
+<pb n="8" facs="tcp:34518:6"/>
+                  <!-- PDF PAGE 36 -->pitty,</hi> ſuffer their fellow <hi>members</hi> to lye roaring in the Streets for want. He wiſheth an induſtrious pious People embarqu'd for <hi>Terra incognita,</hi> that ſuch <hi>Extravagants</hi> as himſelf may have all to de<g ref="char:EOLhyphen"/>vour upon their unſatiable <hi>Luſts.</hi> His <hi>Conſcience</hi> is ſo <hi>broad,</hi> and his <hi>Throat</hi> ſuch an <hi>open Sepulchre,</hi> that he'll make no bones to devour and ſwallow down all his <hi>Neighbours Proprieties</hi> and <hi>fruits</hi> of their <hi>Induſtry.</hi>
+            </p>
+            <p>His <hi>own work</hi> is that of a <hi>Canting Gypſie,</hi> ex<g ref="char:EOLhyphen"/>poſing to Sale his <hi>Rapſody</hi> of <hi>Lyes, Piece</hi> of <hi>Cant,</hi> and <hi>beggarly Scurrility,</hi> which he pretends for to ſupply, provided you his <hi>Libel buy;</hi> whoſe <hi>Name</hi> would be as <hi>Infamous</hi> as his <hi>Work Scurrillous,</hi> had he the <hi>Confidence</hi> to diſcover the <hi>one,</hi> as he had <hi>Impudence</hi> to belch out the <hi>other.</hi> And to Con<g ref="char:EOLhyphen"/>clude, His <hi>own Work</hi> is his beſt <hi>Character.</hi>
+            </p>
+            <closer>
+               <signed>T. R.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:34518:6"/>
+            <!-- PDF PAGE 36 -->
+         </div>
+      </body>
+   </text>
+</TEI>
